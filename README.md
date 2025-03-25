@@ -1,6 +1,6 @@
-#🚀Welcome to My GitHub Profile! Hi there! I'm **[Your Name]**, a passionate developer, Al enthusiast, and cloud practitioner. I love building scalable Al applications, exploring LLM architectures, and optimizing machine learning models.
+🚀Welcome to My GitHub Profile! Hi there! I'm **[Your Name]**, a passionate developer, Al enthusiast, and cloud practitioner. I love building scalable Al applications, exploring LLM architectures, and optimizing machine learning models.
 
-##🛠️Tech Stack
+## 🛠️ Tech Stack
 
 ### 🔷 Programming & Core Concepts
 
